@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bucha1958
 - 👀 I’m interested in Application developement
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m a Student of ALX Software Engineering
 - 📫 How to reach me is through my email okoriemmadu@gmail.com
 <!---
