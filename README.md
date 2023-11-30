@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bucha1958
-- 👀 I’m interested in Application developement
+- 👋 Hi, I’m @Bucha1958, Fullstack Software Engineer
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning
 - 💞️ I’m a graduate of ALX Software Engineering
 - 📫 How to reach me is through my email okoriemmadu@gmail.com
