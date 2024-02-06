@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bucha1958, Fullstack Software Engineer
-- 👀 I’m interested in AI and JAVA open source projects
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in AI and NodeJs open source projects
+- 🌱 I’m currently working on javascript and Typescript projects
 - 💞️ I’m a graduate of ALX Software Engineering
 - 📫 How to reach me is through my email okoriemmadu@gmail.com
 <!---
