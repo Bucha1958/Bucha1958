@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bucha1958, Fullstack Software Engineer
+- 👋 Hi, I’m @Bucha1958, Backend Software Engineer
 - 👀 I’m interested in AI and NodeJs open source projects
 - 🌱 I’m currently working on javascript and Typescript projects
 - 💞️ I’m a graduate of ALX Software Engineering
