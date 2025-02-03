@@ -1,7 +1,10 @@
-## Hi, I’m @Bucha1958, a Backend Software Engineer.
+## Hi, I’m @Bucha1958 👋  
+🚀 **DevOps Engineer | Cloud | Automation**  
 
-- I’m currently working as a DevOps Engineer at Onafriq.
-- 👀 I’m passionate about AI and exploring Node.js open source projects.
-- 🌱 I’m actively working on JavaScript and TypeScript projects.
-- 💞️ I’m a proud graduate of ALX Software Engineering.
-- 📫 Feel free to reach me at [okoriemmadu@gmail.com](mailto:okoriemmadu@gmail.com).
+- 💼 Currently working as a **DevOps Engineer at Onafriq**  
+- 🔧 Passionate about **Cloud Infrastructure, CI/CD, Kubernetes, and Automation**  
+- 🛠️ Working with **Jenkins, Docker, Terraform, and Kubernetes (GKE, K3s, Minikube)**  
+- 🌱 Exploring **SRE practices and AI for DevOps**  
+- 🎓 ALX Software Engineering Graduate  
+
+📬 Reach me at [okoriemmadu@gmail.com](mailto:okoriemmadu@gmail.com)  
