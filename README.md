@@ -3,8 +3,8 @@
 
 - 💼 Currently working as a **DevOps Engineer at Onafriq**  
 - 🔧 Passionate about **Cloud Infrastructure, CI/CD, Kubernetes, and Automation**  
-- 🛠️ Working with **Jenkins, Docker, Terraform, and Kubernetes (GKE, K3s)**  
-- 🌱 Exploring **SRE practices and AI for DevOps**  
+- 🛠️ Working with **Jenkins, Docker, Terraform, and Kubernetes**  
+- 🌱 Exploring **SRE practices**  
 - 🎓 ALX Software Engineering Graduate
 - 🔹 Always learning and sharing knowledge 🚀  
 
