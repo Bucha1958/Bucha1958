@@ -1,11 +1,39 @@
-## Hi, I’m @Bucha1958 👋  
-🚀 **DevOps Engineer | Cloud | Automation**  
+# Hi, I'm Stanley Okorie
 
-- 💼 Currently working as a **DevOps Engineer at Onafriq**  
-- 🔧 Passionate about **Cloud Infrastructure, CI/CD, Kubernetes, and Automation**  
-- 🛠️ Working with **Jenkins, Docker, Terraform, and Kubernetes**  
-- 🌱 Exploring **SRE practices**  
-- 🎓 ALX Software Engineering Graduate
-- 🔹 Always learning and sharing knowledge 🚀  
+DevOps & Cloud Infrastructure Engineer focused on building secure, scalable, and automated cloud-native platforms.
 
-📬 Reach me at [okoriemmadu@gmail.com](mailto:okoriemmadu@gmail.com)  
+💼 Currently working as a DevOps Engineer at Onafriq, supporting fintech infrastructure across AWS and GCP environments.
+
+## What I Work With
+
+* Cloud Infrastructure (AWS & GCP)
+* Kubernetes & Container Orchestration
+* CI/CD Automation
+* Infrastructure as Code (Terraform)
+* Observability & Monitoring
+* VPN & Network Troubleshooting
+* Linux & Automation
+
+## Technologies
+
+AWS • GCP • Kubernetes • Docker • Terraform • GitHub Actions • Jenkins • Helm • Ansible • Kafka • MySQL • Grafana • Elasticsearch • CloudWatch
+
+## Current Focus
+
+* Platform Engineering
+* Kubernetes Security
+* Zero-Trust Infrastructure
+* DevSecOps
+* GitOps & Automation
+* Reliability Engineering
+
+## Featured Projects
+
+* Zero Trust EKS Platform
+* Secure Kubernetes Architecture
+* GitOps CI/CD Pipelines
+* Cloud Infrastructure Automation
+
+🎓 ALX Software Engineering Graduate
+
+📫 Contact: [okoriemmadu@gmail.com](mailto:okoriemmadu@gmail.com)
